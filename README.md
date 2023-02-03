@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: lounet
+tagline: 今朝有事今朝做,莫将忙事待明天.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -16,7 +16,7 @@ bgImageStyle: {
 }
 isShowTitleInHome: false
 actionText: Guide
-actionLink: /views/other/guide
+actionLink: /blogs/other/guide
 features:
 - title: Yesterday
   details: 开发一款看着开心、写着顺手的 vuepress 博客主题

@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "lounet",
+  description: 'lounet\'s blog',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -20,7 +20,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
-          { text: 'GitHub', link: 'https://github.com/recoluan', icon: 'reco-github' }
+          { text: 'GitHub', link: 'https://github.com/louandme', icon: 'louandme-github' }
         ]
       }
     ],
@@ -65,15 +65,15 @@ module.exports = {
     // 自动形成侧边导航
     // sidebar: 'auto',
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    lastUpdated: '2023/2/3',
     // 作者
-    author: 'reco_luan',
+    author: 'louandme',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
-    record: 'xxxx',
+    record: '',
     // 项目开始时间
-    startYear: '2017'
+    startYear: '2023'
     /**
      * 密钥 (if your blog is private)
      */
@@ -85,7 +85,7 @@ module.exports = {
     // },
 
     /**
-     * valine 设置 (if you need valine comment )
+     * valine 评论设置 (if you need valine comment )
      */
 
     // valineConfig: {
